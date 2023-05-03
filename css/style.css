@@ -101,3 +101,62 @@ h4{
     margin-left: 50px;
 }
 
+.check, .list-button{
+    display: inline-block;
+	vertical-align: middle;
+    
+}
+
+.azure{
+    padding: 8px 16px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 15px; 
+    font-size: 10px;
+}
+
+.violet{
+    padding: 8px 16px;
+    background-color: violet;
+    color: white;
+    border: none;
+    border-radius: 15px; 
+    font-size: 10px;
+}
+
+.green{
+    padding: 8px 16px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 15px; 
+    font-size: 10px;
+}
+
+.orange{
+    padding: 8px 16px;
+    background-color: orange;
+    color: white;
+    border: none;
+    border-radius: 15px; 
+    font-size: 10px;
+}
+
+.purple{
+    padding: 8px 16px;
+    background-color: purple;
+    color: white;
+    border: none;
+    border-radius: 15px; 
+    font-size: 10px;
+}
+
+.lightgreen{
+    padding: 8px 16px;
+    background-color: lightgreen;
+    color: white;
+    border: none;
+    border-radius: 15px; 
+    font-size: 10px;
+}
