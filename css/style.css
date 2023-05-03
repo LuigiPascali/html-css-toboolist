@@ -19,3 +19,47 @@ body {
     background-color: #F6F8F9;
 }
 
+header {
+    padding: 15px;
+    margin-bottom: 50px;
+}
+
+h1 {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#main-logo {
+    vertical-align: middle;
+}
+
+
+.container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 60px;
+    background-color: #FFFFFF;
+    padding-left: 20px;
+  }
+  
+  .btn {
+    border: 1px solid #555555;
+    color: #555555;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .btn-blue {
+    background-color: #3498db;
+    color: #ffffff;
+    border-color: #888888;
+  }
+  
+  .btn-white {
+    background-color: #ffffff;
+    color:#888888;
+    border-color: #888888;
+  }
